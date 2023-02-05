@@ -49,5 +49,6 @@ wine.names.txt
 wdbc.names.txt
 AmesHousing.txt
 
-
+aclImdb/
+movie_data.csv
 
