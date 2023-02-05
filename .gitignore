@@ -52,3 +52,16 @@ AmesHousing.txt
 aclImdb/
 movie_data.csv
 
+MNIST/
+cat_dog_images/
+
+iris_classifier.pt
+iris_classifier_state.pt
+
+lightning_logs/
+logs/
+models/
+output/
+
+
+
