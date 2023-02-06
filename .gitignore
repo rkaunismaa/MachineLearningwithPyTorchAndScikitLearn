@@ -62,6 +62,8 @@ lightning_logs/
 logs/
 models/
 output/
+results/
+
 
 
 
