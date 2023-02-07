@@ -63,6 +63,9 @@ logs/
 models/
 output/
 results/
+cartpole/
+gridworld/
+
 
 
 
